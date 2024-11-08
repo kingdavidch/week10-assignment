@@ -1,4 +1,4 @@
----
+
 
 # File Handling in C - Assessment
 
@@ -13,8 +13,8 @@ The solutions are implemented in C and follow the guidelines provided in the ass
 ## Table of Contents
 
 - [Requirements](#requirements)
-- [Task 1: Word Counting and Uppercase](#task-1-word-counting-and-uppercase)
-- [Task 2: Employee Binary File](#task-2-employee-binary-file)
+- [Task 1 : Word Counting and Uppercase](#task-1-word-counting-and-uppercase)
+- [Task 2 : Employee Binary File](#task-2-employee-binary-file)
 - [Compiling and Running the Code](#compiling-and-running-the-code)
 - [License](#license)
 
